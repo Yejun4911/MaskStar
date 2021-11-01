@@ -1,6 +1,10 @@
 
 ## 회의록
 [회의록](https://docs.google.com/document/d/1rpe6h6arZPnXDNhKevo1th57W6mOq_QvDpW1lADAgg8/edit)
+
+## 발표자료
+[OnlineMask PPT.pdf](https://github.com/Yejun4911/MaskStar/files/7451528/OnlineMask.PPT.pdf)
+
 ## 개발환경
 
 ### Java
