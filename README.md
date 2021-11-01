@@ -82,6 +82,6 @@
 ## Usecase Diagram
 [SRS](https://github.com/EncoreFinal2Team/WebProject-Design/wiki/SRS)
 ## Business Logic
-[BusinessLogic]()
+[BusinessLogic](https://github.com/EncoreFinal2Team/WebProject-Design/wiki/BusinessLogic)
 ## UsecaseDiagram
 [UsecaseDiagram](https://github.com/EncoreFinal2Team/WebProject-Design/wiki/UsecaseDiagram)
