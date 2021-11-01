@@ -76,11 +76,9 @@
 ![Encore-AI-Project-Team2-007](https://user-images.githubusercontent.com/61110132/126266240-7cccb4ee-bb91-4d62-9622-46c9a627213c.jpg)
 
 ## SRS
-
+[SRS](https://github.com/EncoreFinal2Team/WebProject-Design/wiki/SRS)
 ## DB Modeling
 [DB Modelling](https://github.com/EncoreFinal2Team/WebProject-Design/wiki/DB-Modeling)
-## Usecase Diagram
-[SRS](https://github.com/EncoreFinal2Team/WebProject-Design/wiki/SRS)
 ## Business Logic
 [BusinessLogic](https://github.com/EncoreFinal2Team/WebProject-Design/wiki/BusinessLogic)
 ## UsecaseDiagram
